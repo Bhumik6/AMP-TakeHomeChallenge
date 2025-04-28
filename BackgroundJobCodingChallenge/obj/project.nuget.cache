@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3xy0sVnAfGjYiZ6kITgE8czlLIYSVpyZiUDbGZiHkxhNAY0JTpT0Vz+8+5xsX71qaV5MhVA3hwv9BHlE0BuMQ==",
+  "success": true,
+  "projectFilePath": "/Users/bhumik06/Downloads/BackgroundJobCodingChallenge/BackgroundJobCodingChallenge/BackgroundJobCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/bhumik06/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/bhumik06/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/bhumik06/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/bhumik06/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/bhumik06/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/bhumik06/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
